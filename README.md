@@ -1,11 +1,11 @@
 # 🎌 Travel Japan 🎌
 
-This is a simple static website made to advertise Japan as a travel destination.
+This is a simple static website made to advertise Japan as a travel destination. The site was made for a web development class.
 
-## Hosting
+## ☁ Hosting
 
-This site is hosted publicly at https://happy-jepsen-721e54.netlify.com/index.html.
+This site is hosted publicly at https://antcar112.github.io/travel-japan/index.html.
 
-## Technologies Used
+## 🛠 Technologies Used
 
-This project made use of HTML and CSS.
+This project is made use of HTML and CSS.
